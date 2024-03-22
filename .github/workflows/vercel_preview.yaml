@@ -1,7 +1,7 @@
 name: GitHub Actions Vercel Preview Deployment
 env:
   VERCEL_ORG_ID: DzHjaBMPRs5MdmEA7540OC5D
-  VERCEL_PROJECT_ID: prj_OzH2Q59u6LIrjAM2HjuLwGUT88Cv
+  VERCEL_PROJECT_ID: prj_DSVkNMKi6cYIa7R1sLN6UGe6ggGb
 on:
   workflow_dispatch:
   push:
