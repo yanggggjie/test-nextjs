@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies with pnpm
         run: pnpm install
 
-#      - name: Build the project with pnpm
-#        run: pnpm run build
-
       - name: Install Vercel CLI
         run: npm install --global vercel@canary
 
